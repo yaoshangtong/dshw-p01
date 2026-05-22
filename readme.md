@@ -33,7 +33,7 @@
 3. 查看报告：打开根目录report.html即可阅读完整分析报告
 
 ## 五、仓库地址
-https://github.com/你的用户名/dshw-p01
+https://github.com/yaoshangtong/dshw-p01
 
 ## 六、分析结论简述
 1. 股票收益率普遍呈现尖峰厚尾，不符合标准正态分布
